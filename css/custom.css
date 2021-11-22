@@ -1,13 +1,13 @@
 /**
  * File              : css/custom.css
- * Author            : Marcos Horro <marcos.horro@udc.gal>
+ * Author            : Qazi Mazhar ul Haq q.mazhar876@gmail.com>
  * Last Modified Date: Mar 18 Set 2018 16:01:31 CEST
  */
 /* bib-publication-list styles
 -------------------------------------------------- */
 span.undefined { color:red; }
 .bibtable {width: auto 100%; height: auto scroll; margin: 0 auto; clear: both;}
-.bibchart { width: 100%; height: 100px; margin-bottom: 20px;}
+.bibchart { width: 200%; height: 100px; margin-bottom: 20px;}
 .clear {clear:both;}
 .year { position: relative; height: 100%; border-bottom: 1px solid black; display: inline-block;}
 .yearlabel { position: absolute; bottom: -20px; text-align: center; width: 100%; font-size: smaller;}
